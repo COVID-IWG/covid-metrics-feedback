@@ -1,3 +1,3 @@
-# adaptive-control-feedback
+# covid-metrics-feedback
 
-## Repository to track public feedback for Adaptive Control work.
+## Repository to track public feedback for COVID Metrics work.
